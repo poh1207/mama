@@ -1,0 +1,7 @@
+C:\Users\poh12\source\repos\fft\fft\bin\Debug\fft.exe.config
+C:\Users\poh12\source\repos\fft\fft\bin\Debug\fft.exe
+C:\Users\poh12\source\repos\fft\fft\bin\Debug\fft.pdb
+C:\Users\poh12\source\repos\fft\fft\obj\Debug\fft.csprojAssemblyReference.cache
+C:\Users\poh12\source\repos\fft\fft\obj\Debug\fft.csproj.CoreCompileInputs.cache
+C:\Users\poh12\source\repos\fft\fft\obj\Debug\fft.exe
+C:\Users\poh12\source\repos\fft\fft\obj\Debug\fft.pdb
